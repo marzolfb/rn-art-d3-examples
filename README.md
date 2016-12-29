@@ -9,6 +9,15 @@ The approach here is to take the example app included in [react-native-pathjs-ch
 
 I started with the pie chart and the experience creating that chart gave me enough of a feel for using "the alternate approach", so the pie chart is probably the only chart type I will reimplement with "the new approach".
 
+## Installation / Running
+
+After cloning this project, running the example should simply be a matter of:
+
+```
+npm install
+react-native run-ios
+```
+
 ## Influences from others
 
 I didn't even realize "the new approach" was a possible approach until I read a couple of really great articles (and studied their corresponding github repos):
