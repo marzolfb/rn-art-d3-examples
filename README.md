@@ -2,7 +2,7 @@ rn-art-d3-examples
 =======================
 
 <p align="center">
-<img src="https://cloud.githubusercontent.com/assets/1242149/21560369/fcb446ee-ce12-11e6-8f28-89b97b0f3cf3.png" alt="demo screenshot" width="200">
+<img src="https://cloud.githubusercontent.com/assets/1242149/21560439/28a2004c-ce14-11e6-8c33-105fa4dc3508.png" alt="demo screenshot" width="200">
 </p>
 
 ## Intro
