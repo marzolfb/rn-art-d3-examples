@@ -9,7 +9,7 @@ rn-art-d3-examples
 
 This is a proof of concept exercise to compare/contrast creating react-native charts (very simple ones) using [react-native-pathjs-charts](https://github.com/capitalone/react-native-pathjs-charts) vs using a combination of [react-native ART](https://github.com/facebook/react-native/tree/master/Libraries/ART) & [d3](https://github.com/d3/d3) & [d3-shape](https://github.com/d3/d3-shape)
 
-The approach here is to take the example app included in [react-native-pathjs-charts](https://github.com/capitalone/react-native-pathjs-charts) and reproduce the same charts using "the alternate approach".
+The approach here is to take the example app included in [react-native-pathjs-charts](https://github.com/capitalone/react-native-pathjs-charts) and reproduce the same charts using "the alternate approach" (rn-art + d3 + d3-shape).
 
 I started with the pie chart and the experience creating that chart gave me enough of a feel for using "the alternate approach", so the pie chart is probably the only chart type I will reimplement with "the alternate approach".
 
